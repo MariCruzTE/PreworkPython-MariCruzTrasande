@@ -1,4 +1,5 @@
-#Crea una función a la que, pasandole la base y la altura, calcule y devuelva el area de un triángulo.
+#Crea una función a la que, pasandole la base y la altura,
+# calcule y devuelva el area de un triángulo.
 
 def calcular_area_triangulo(base,altura):
   return (base*altura)/2

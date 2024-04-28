@@ -1,5 +1,4 @@
 
-
 print("introduzca el numero")
 numero = int(input()) 
 contador = 0

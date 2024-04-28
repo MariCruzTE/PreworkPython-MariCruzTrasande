@@ -1,5 +1,4 @@
 # Dados dos números, crea una función para encontrar el máximo común divisor (MCD) de estos dos números.add()
-
 def mcd(a,b):
   while b:a,b=b,a%b
   return a

@@ -15,3 +15,4 @@ if NumeroPerfecto(num):
 	print('True')
 else:
 	print('False')
+ 

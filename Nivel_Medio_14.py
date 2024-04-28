@@ -7,4 +7,5 @@ def medir_palabras(palabras):
       print(palabra)
       
 mi_lista = ['En','desde','terciopelo','patata','lista','entero','funcion']
-print(medir_palabras(mi_lista))
+medir_palabras(mi_lista)
+

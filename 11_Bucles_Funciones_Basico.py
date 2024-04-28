@@ -1,5 +1,5 @@
-#Crea una funcion para verificar si un número es par o impar y que devuelva "El número es par" o "El número es impar" según corresponda
-
+#Crea una funcion para verificar si un número es par o impar
+# y que devuelva "El número es par" o "El número es impar" según corresponda
 
 def es_par (numero): 
   return numero % 2 == 0

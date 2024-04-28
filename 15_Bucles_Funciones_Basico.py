@@ -1,4 +1,5 @@
-#Crea una función que, dado un número, sume los dígitos de ese número y devuelva el resultado. 
+# Crea una función que, dado un número, sume los dígitos
+# de ese número y devuelva el resultado. 
 
 def sumar_digitos(numero):
   suma=0

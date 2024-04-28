@@ -1,6 +1,5 @@
-#Define una función que reciba dos listas y retorne la interseccion de ambas (los elementos que estan en las dos listas).
-
-
+# Define una función que reciba dos listas y retorne la interseccion
+# de ambas (los elementos que estan en las dos listas).
 
 def inter(lista1,lista2):
   lista3=[]

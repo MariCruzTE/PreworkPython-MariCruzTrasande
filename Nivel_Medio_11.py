@@ -7,4 +7,4 @@ def es_palindromo(palabra):
   else:
     print(palabra, 'no es un palindromo')
     
-print(es_palindromo('radar'))
+es_palindromo('radar')

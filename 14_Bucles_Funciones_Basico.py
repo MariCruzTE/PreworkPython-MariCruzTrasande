@@ -1,4 +1,5 @@
-#Dada una lista de numeros, crea una funcíon que devuelva el número maximo de la lista.add()
+# Dada una lista de numeros, crea una funcíon que devuelva
+# el número maximo de la lista.add()
 
 def encontrar_maximo(lista):
   maximo = lista[0]

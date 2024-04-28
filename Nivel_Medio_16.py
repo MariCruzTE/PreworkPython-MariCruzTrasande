@@ -5,9 +5,9 @@ def maximo_lista(numeros):
   for número in numeros:
     if número > maximo:
       maximo = número
-  return maximo
+  print (maximo)
 
 lista = [52,63,87,94,125,241,3,8,45,16]
-print(maximo_lista(lista))
+maximo_lista(lista)
 
 #Hasta aqui, el resto de ejercicios de nivel medio no he conseguido ver la info de como poder sacarlos, sorry
